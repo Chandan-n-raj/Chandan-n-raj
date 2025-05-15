@@ -29,4 +29,6 @@ I am a recent graduate actively seeking a job opportunity.I aim to secure a posi
 ---
 [![](https://visitcount.itsvg.in/api?id=Chandan-n-raj&icon=2&color=0)](https://visitcount.itsvg.in)
 
+![snake gif](https://github.com/Chandan-n-raj/Chandan-n-raj/blob/output/github-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
