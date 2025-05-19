@@ -49,7 +49,7 @@ I am a recent graduate actively seeking a job opportunity.I aim to secure a posi
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Chandan-n-raj&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Chandan-n-raj&theme=dark&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Chandan-n-raj&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan-n-raj&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
