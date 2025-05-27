@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I am a recent graduate actively seeking a job opportunity.I aim to secure a position in an organization where I can use and enhance my knowledge and talents for the development of both the organization and myself.
+I am a recent graduate actively seeking a job opportunity. I aim to secure a position in an organization where I can use and enhance my knowledge and talents for the development of both the organization and myself.
 
 
 
