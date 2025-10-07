@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I am a recent graduate actively seeking a job opportunity. I aim to secure a position in an organization where I can use and enhance my knowledge and talents for the development of both the organization and myself.
+I’m an Information Science graduate passionate about building scalable and efficient software solutions. With a solid foundation in Java, SQL, and software development, I’ve gained practical experience in automation and CI/CD pipelines through academic projects and internships.
+
+Currently, I’m expanding my skill set in Cloud technologies to strengthen my understanding of modern deployment and infrastructure practices. My goal is to contribute to an innovative organization where I can grow, learn, and build technology that truly matters.
 
 
 
